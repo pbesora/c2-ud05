@@ -9,7 +9,7 @@ public class ex01 {
 		else if(a<b)
 			System.out.println("B es mayor que A.");
 		else
-			System.out.println(" A es igal que B.");
+			System.out.println(" A es igual que B.");
 		
 	}
 
